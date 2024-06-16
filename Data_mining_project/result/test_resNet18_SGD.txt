@@ -1,0 +1,121 @@
+Number of parameters: 11178051
+Epoch 1/15
+--------------------
+Sagittal T1 Train Loss: 1.1117 Acc: 0.6046
+Sagittal T1 Val Loss: 0.6095 Acc: 0.7411
+Axial T2 Train Loss: 1.0322 Acc: 0.6328
+Axial T2 Val Loss: 0.6192 Acc: 0.7271
+Sagittal T2/STIR Train Loss: 1.2319 Acc: 0.6679
+Sagittal T2/STIR Val Loss: 0.5376 Acc: 0.7646
+Epoch 2/15
+--------------------
+Sagittal T1 Train Loss: 0.5568 Acc: 0.7617
+Sagittal T1 Val Loss: 0.4850 Acc: 0.7773
+Axial T2 Train Loss: 0.5516 Acc: 0.7620
+Axial T2 Val Loss: 0.4113 Acc: 0.8380
+Sagittal T2/STIR Train Loss: 0.7462 Acc: 0.7529
+Sagittal T2/STIR Val Loss: 0.5686 Acc: 0.7727
+Epoch 3/15
+--------------------
+Sagittal T1 Train Loss: 0.3893 Acc: 0.8375
+Sagittal T1 Val Loss: 0.3002 Acc: 0.8710
+Axial T2 Train Loss: 0.3571 Acc: 0.8583
+Axial T2 Val Loss: 0.2631 Acc: 0.9013
+Sagittal T2/STIR Train Loss: 0.6005 Acc: 0.7786
+Sagittal T2/STIR Val Loss: 0.4377 Acc: 0.8085
+Epoch 4/15
+--------------------
+Sagittal T1 Train Loss: 0.2823 Acc: 0.8868
+Sagittal T1 Val Loss: 0.2324 Acc: 0.9056
+Axial T2 Train Loss: 0.2331 Acc: 0.9099
+Axial T2 Val Loss: 0.2156 Acc: 0.9183
+Sagittal T2/STIR Train Loss: 0.5177 Acc: 0.8194
+Sagittal T2/STIR Val Loss: 0.3938 Acc: 0.8446
+Epoch 5/15
+--------------------
+Sagittal T1 Train Loss: 0.2163 Acc: 0.9161
+Sagittal T1 Val Loss: 0.2327 Acc: 0.9059
+Axial T2 Train Loss: 0.1683 Acc: 0.9371
+Axial T2 Val Loss: 0.1499 Acc: 0.9452
+Sagittal T2/STIR Train Loss: 0.4070 Acc: 0.8550
+Sagittal T2/STIR Val Loss: 0.2706 Acc: 0.9028
+Epoch 6/15
+--------------------
+Sagittal T1 Train Loss: 0.1668 Acc: 0.9368
+Sagittal T1 Val Loss: 0.1683 Acc: 0.9372
+Axial T2 Train Loss: 0.1193 Acc: 0.9571
+Axial T2 Val Loss: 0.1683 Acc: 0.9393
+Sagittal T2/STIR Train Loss: 0.2998 Acc: 0.8963
+Sagittal T2/STIR Val Loss: 0.3526 Acc: 0.8598
+Epoch 7/15
+--------------------
+Sagittal T1 Train Loss: 0.1214 Acc: 0.9546
+Sagittal T1 Val Loss: 0.1796 Acc: 0.9413
+Axial T2 Train Loss: 0.0945 Acc: 0.9655
+Axial T2 Val Loss: 0.1421 Acc: 0.9519
+Sagittal T2/STIR Train Loss: 0.1981 Acc: 0.9304
+Sagittal T2/STIR Val Loss: 0.1602 Acc: 0.9496
+Epoch 8/15
+--------------------
+Sagittal T1 Train Loss: 0.0328 Acc: 0.9896
+Sagittal T1 Val Loss: 0.1504 Acc: 0.9627
+Axial T2 Train Loss: 0.0210 Acc: 0.9930
+Axial T2 Val Loss: 0.1234 Acc: 0.9677
+Sagittal T2/STIR Train Loss: 0.1078 Acc: 0.9639
+Sagittal T2/STIR Val Loss: 0.0936 Acc: 0.9727
+Epoch 9/15
+--------------------
+Sagittal T1 Train Loss: 0.0109 Acc: 0.9970
+Sagittal T1 Val Loss: 0.1524 Acc: 0.9652
+Axial T2 Train Loss: 0.0062 Acc: 0.9985
+Axial T2 Val Loss: 0.1148 Acc: 0.9743
+Sagittal T2/STIR Train Loss: 0.0706 Acc: 0.9775
+Sagittal T2/STIR Val Loss: 0.0992 Acc: 0.9763
+Epoch 10/15
+--------------------
+Sagittal T1 Train Loss: 0.0059 Acc: 0.9986
+Sagittal T1 Val Loss: 0.1610 Acc: 0.9664
+Axial T2 Train Loss: 0.0035 Acc: 0.9993
+Axial T2 Val Loss: 0.1264 Acc: 0.9716
+Sagittal T2/STIR Train Loss: 0.0523 Acc: 0.9840
+Sagittal T2/STIR Val Loss: 0.0781 Acc: 0.9792
+Epoch 11/15
+--------------------
+Sagittal T1 Train Loss: 0.0034 Acc: 0.9993
+Sagittal T1 Val Loss: 0.1390 Acc: 0.9712
+Axial T2 Train Loss: 0.0024 Acc: 0.9996
+Axial T2 Val Loss: 0.1474 Acc: 0.9695
+Sagittal T2/STIR Train Loss: 0.0371 Acc: 0.9887
+Sagittal T2/STIR Val Loss: 0.0827 Acc: 0.9803
+Epoch 12/15
+--------------------
+Sagittal T1 Train Loss: 0.0028 Acc: 0.9992
+Sagittal T1 Val Loss: 0.1734 Acc: 0.9666
+Axial T2 Train Loss: 0.0020 Acc: 0.9997
+Axial T2 Val Loss: 0.1361 Acc: 0.9714
+Sagittal T2/STIR Train Loss: 0.0263 Acc: 0.9923
+Sagittal T2/STIR Val Loss: 0.0732 Acc: 0.9842
+Epoch 13/15
+--------------------
+Sagittal T1 Train Loss: 0.0027 Acc: 0.9993
+Sagittal T1 Val Loss: 0.1795 Acc: 0.9660
+Axial T2 Train Loss: 0.0013 Acc: 0.9998
+Axial T2 Val Loss: 0.1314 Acc: 0.9725
+Sagittal T2/STIR Train Loss: 0.0186 Acc: 0.9946
+Sagittal T2/STIR Val Loss: 0.1111 Acc: 0.9747
+Epoch 14/15
+--------------------
+Sagittal T1 Train Loss: 0.0016 Acc: 0.9997
+Sagittal T1 Val Loss: 0.1660 Acc: 0.9695
+Axial T2 Train Loss: 0.0014 Acc: 0.9997
+Axial T2 Val Loss: 0.1367 Acc: 0.9721
+Sagittal T2/STIR Train Loss: 0.0156 Acc: 0.9954
+Sagittal T2/STIR Val Loss: 0.0955 Acc: 0.9817
+Epoch 15/15
+--------------------
+Sagittal T1 Train Loss: 0.0013 Acc: 0.9998
+Sagittal T1 Val Loss: 0.1567 Acc: 0.9697
+Axial T2 Train Loss: 0.0011 Acc: 0.9999
+Axial T2 Val Loss: 0.1413 Acc: 0.9718
+Sagittal T2/STIR Train Loss: 0.0132 Acc: 0.9969
+Sagittal T2/STIR Val Loss: 0.0999 Acc: 0.9806
